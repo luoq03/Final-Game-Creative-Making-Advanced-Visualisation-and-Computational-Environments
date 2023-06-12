@@ -1,4 +1,4 @@
-# Personal Project - Final VR Game
+# DIGGING“ - Personal Project - Final VR Game
 
 ![8090a0e8470999d0de4ee79398bfddb](https://github.com/luoq03/Final-Game-Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/57748663/d66f3039-1850-484b-9bdc-5060799357fb)
 
