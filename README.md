@@ -45,3 +45,8 @@ Gameplay is facilitated via a head-mounted VR device and handheld controllers. T
 2. Display of the current number of emitted particles in the top-left corner of the interface.
 
 3. FPS (Frames Per Second) value displayed in the top-left corner of the interface.
+
+## Reference ##
+My work has been informed by the LiDAR project plugin (specifically for Horror and Exploration Games) available on the Unity Asset Store, courtesy of its author, Julius Cornelius.
+
+link: https://assetstore.unity.com/packages/vfx/particles/lidar-project-horror-and-exploration-games-231610
