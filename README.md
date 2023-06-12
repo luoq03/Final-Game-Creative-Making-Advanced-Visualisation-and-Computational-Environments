@@ -5,6 +5,9 @@
 ## Video Link ##
 https://youtu.be/p1TlVBhmamE
 
+## Link to the Unity source files of the game project: ##
+https://drive.google.com/file/d/1X1ffZSLW9vXFl5iAVY6Qi0bNyNiIwbpL/view?usp=sharing
+
 The personal appearance of the player, along with the live in-game footage, can be seen in the video at the time stamp of 06:06.
 
 ## Introduction: ##
