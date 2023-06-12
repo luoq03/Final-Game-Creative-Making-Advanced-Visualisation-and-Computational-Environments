@@ -1,5 +1,8 @@
 # Final-Game-Creative-Making-Advanced-Visualisation-and-Computational-Environments
 
+## Video Link ##
+The personal appearance of the player, along with the live in-game footage, can be seen in the video at the time stamp of 06:06.
+
 ## Introduction: ##
 Embark on an extraordinary voyage that transcends the confines of time and space. Here, all motion ceases, giving way to an encompassing void. We invite you to unearth the hidden secrets, explore what once was absent, and experience the enchantment of the Al-Jazar Mosque.
 
