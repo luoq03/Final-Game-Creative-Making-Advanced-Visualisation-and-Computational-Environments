@@ -3,6 +3,8 @@
 ![8090a0e8470999d0de4ee79398bfddb](https://github.com/luoq03/Final-Game-Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/57748663/d66f3039-1850-484b-9bdc-5060799357fb)
 
 ## Video Link ##
+https://youtu.be/p1TlVBhmamE
+
 The personal appearance of the player, along with the live in-game footage, can be seen in the video at the time stamp of 06:06.
 
 ## Introduction: ##
@@ -50,3 +52,5 @@ Gameplay is facilitated via a head-mounted VR device and handheld controllers. T
 My work has been informed by the LiDAR project plugin (specifically for Horror and Exploration Games) available on the Unity Asset Store, courtesy of its author, Julius Cornelius.
 
 link: https://assetstore.unity.com/packages/vfx/particles/lidar-project-horror-and-exploration-games-231610
+
+Revised Translation: While this resource is undoubtedly excellent, what truly captivates me is its remarkable performance within the realm of VR gaming.
