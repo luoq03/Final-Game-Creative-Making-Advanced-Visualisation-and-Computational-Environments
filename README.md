@@ -1,5 +1,7 @@
 # Final-Game-Creative-Making-Advanced-Visualisation-and-Computational-Environments
 
+![8090a0e8470999d0de4ee79398bfddb](https://github.com/luoq03/Final-Game-Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/57748663/d66f3039-1850-484b-9bdc-5060799357fb)
+
 ## Video Link ##
 The personal appearance of the player, along with the live in-game footage, can be seen in the video at the time stamp of 06:06.
 
