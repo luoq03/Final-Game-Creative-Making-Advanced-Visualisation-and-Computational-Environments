@@ -18,7 +18,9 @@ Gameplay is facilitated via a head-mounted VR device and handheld controllers. T
 
 4. Toggle between four particle colors using Button X on the left controller.
 
-5. Execute a circular scan, accompanied by sound effects, using the PrimaryIndexTrigger on the right controller. (There are four available sizes for the circular scan.)
+5. Execute a circular scan, accompanied by sound effects, using the PrimaryIndexTrigger on the right controller.
+
+(There are four available sizes for the circular scan.)
 
 6. Direct your avatar's line of sight using the PrimaryThumbstick on the right controller.
 
