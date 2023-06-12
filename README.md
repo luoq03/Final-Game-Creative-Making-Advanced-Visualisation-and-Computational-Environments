@@ -1,20 +1,25 @@
-# Final-Game-Creative-Making-Advanced-Visualisation-and-Computational-Environments
+# Personal Project-Final-Game-Creative-Making-Advanced-Visualisation-and-Computational-Environments
 
 ![8090a0e8470999d0de4ee79398bfddb](https://github.com/luoq03/Final-Game-Creative-Making-Advanced-Visualisation-and-Computational-Environments/assets/57748663/d66f3039-1850-484b-9bdc-5060799357fb)
+
 
 ## Video Link ##
 https://youtu.be/p1TlVBhmamE
 
+The personal appearance of the player, along with the live in-game footage, can be seen in the video at the time stamp of 06:06.
+
+
 ## Link to the Unity source files of the game project: ##
 https://drive.google.com/file/d/1X1ffZSLW9vXFl5iAVY6Qi0bNyNiIwbpL/view?usp=sharing
 
-The personal appearance of the player, along with the live in-game footage, can be seen in the video at the time stamp of 06:06.
 
 ## Introduction: ##
 Embark on an extraordinary voyage that transcends the confines of time and space. Here, all motion ceases, giving way to an encompassing void. I invite you to unearth the hidden secrets, explore what once was absent, and experience the enchantment of the Al-Jazar Mosque.
 
+
 ## Background of the Game Environment: ##
 My game is set within the Al-Jazar Mosque in Acre, a structure steeped in rich cultural history. Through the medium of Virtual Reality, I aim to offer players an immersive exploration of this unique edifice. By creating an interactive digital facsimile of this ancient and enigmatic building, I ensure its virtual perpetuity. The in-game model has been meticulously crafted based on the real Al-Jazar Mosque, featuring avatars that represent the locals performing traditional rituals, such as kneeling and performing Alwudu, faithfully depicting the life within the mosque. In order to enrich the gaming experience and stimulate exploratory behavior, I've also incorporated symbolic sculptures of spiritual strength. (For the keen-eyed players, you may even spot some familiar local felines.)
+
 
 ## Gameplay Instructions: ##
 Players are tasked with conducting a comprehensive scan of the entire game environment until every element has been discovered. 
@@ -42,6 +47,7 @@ Gameplay is facilitated via a head-mounted VR device and handheld controllers. T
 8. Use Button B on the right controller to decrease the scope of the circular scan.
 
 9. Use the PrimaryHandTrigger on the right controller to execute a minor horizontal linear particle scan, accompanied by sound effects.
+
 
 ## Additional Features: ##
 
